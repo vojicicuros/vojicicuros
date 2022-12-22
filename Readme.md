@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uros Vojicic
-- 👀 I’m interested in digital signal processing
+- 👀 I’m interested in digital image processing
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything related 
 - 📫 How to reach me - vojicicuros@gmail.com  ; urosvoja@yahoo.com
