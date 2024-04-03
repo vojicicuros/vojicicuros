@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Uros Vojicic
 - 👀 I’m currently interested in digital image processing and object-oriented programming
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything related 
-- 📫 How to reach me - vojicicuros@gmail.com  ; urosvoja@yahoo.com
+- 📫 How to reach me - vojicicuros@gmail.com
 
 <!---
 vojicicuros/vojicicuros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
