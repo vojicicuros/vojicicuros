@@ -1,9 +1,8 @@
-- 👀 I’m currently interested in digital image processing and object-oriented programming
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on anything related 
-- 📫 How to reach me - vojicicuros@gmail.com
+👋 Hi there! I'm excited to share my journey in software engineering and beyond!
 
-<!---
-vojicicuros/vojicicuros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I have 6 months of full-time experience as a Software Engineer Intern, specializing in Python.
+🛠️ My expertise spans across signal processing, object-oriented programming in C, C++, Python, and Java.
+🔍 I've developed automation scripts for data scraping and analysis.
+🌱 Currently diving deep into Machine Learning, AI, IoT, and Embedded Programming.
+💡 I’m looking to collaborate on projects related to these exciting fields!
+📫 Feel free to reach out to me at vojicicuros@gmail.com
